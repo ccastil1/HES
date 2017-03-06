@@ -19,11 +19,11 @@ body, .wrapper{background: #e9e9e9; font-family: Quicksand; color: #88BBD6;}
       width: 20px;
       height: 20px;
       content: "";
-      background: url('nav-icon.png') no-repeat; }
+      background: url('images/nav-icon.png') no-repeat; }
     #nav-trigger span:hover {
       background-color: #88BBD6; }
     #nav-trigger span.open:after {
-        /*background: url('nav-icon.png') no-repeat; }*/
+        /*background: url('images/nav-icon.png') no-repeat; }*/
  }
 
 nav {
